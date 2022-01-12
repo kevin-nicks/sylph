@@ -18,7 +18,7 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
     "lunr": "^0.6.0",
-    "markdown-it": "^8.2.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-replace-link": "^1.0.0",
     "markdown-it-toc-and-anchor": "^4.1.1"
   }
